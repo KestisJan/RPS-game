@@ -1,0 +1,4 @@
+textDOM = document.querySelector(`text`);
+
+
+
